@@ -42,6 +42,7 @@ const Footer = () => {
               consectetur adipisicing elit. Possimus, voluptate.{" "}
             </p>
             <br />
+            {/* comment */}
             <div className="flex items-center gap-3">
               <FaLocationArrow />
               <p>Noida, Uttar Pradesh</p>
